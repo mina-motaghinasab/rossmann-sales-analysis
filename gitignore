@@ -1,9 +1,0 @@
-# Data (download from Kaggle, see README)
-data/
-
-# Jupyter / Python
-.ipynb_checkpoints/
-__pycache__/
-
-# macOS
-.DS_Store
