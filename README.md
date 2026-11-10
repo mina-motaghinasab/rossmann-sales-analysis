@@ -166,7 +166,7 @@ The notebooks were developed in Google Colab with the data stored in Google Driv
    `train_clean.parquet`, which the other notebooks use.
 
 To run locally instead, install the packages with `pip install -r requirements.txt` and
-change `DATA_DIR` and `FIG_DIR` at the top of each notebook.
+change `DATA_DIR` and `FIG_DIR` at the top of each notebook. Tested with Python 3.13.
 
 ## Tools
 
